@@ -1,0 +1,18 @@
+baseURL = 'http://www.vemiller.com/'
+languageCode = 'en-us'
+title = 'Nuts and Bolts'
+theme = "hugo-kiera"
+
+[params]
+  author = "Vaughn Miller"
+  tagline = "Some things I've learned along the way..."
+  disableDarkModeCSS = false
+
+[permalinks]
+	posts = '/:year/:month/:day/:title'
+
+[author]
+    name = "Vaughn Miller"           #Author name
+    github = "vmiller"         #Github username
+    linkedin = "vaughn-miller-a4799742"       #LinkedIn username
+    twitter = "Vaughn_E_Miller"        #Twitter username
