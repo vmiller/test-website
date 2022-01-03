@@ -17,3 +17,10 @@ theme = "hugo-kiera"
     github = "vmiller"         #Github username
     linkedin = "vaughn-miller-a4799742"       #LinkedIn username
     twitter = "Vaughn_E_Miller"        #Twitter username
+
+[Menus]
+  main = [
+  	{Name = "Github", URL = "https://github.com/vmiller/"},
+  	{Name = "Twitter", URL = "https://twitter.com/Vaughn_E_Miller"},
+  	{Name = "LinkedIn", URL = "https://www.linkedin.com/in/vaughn-miller-a4799742/"}
+  	]
