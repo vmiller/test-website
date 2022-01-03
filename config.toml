@@ -6,6 +6,7 @@ theme = "hugo-kiera"
 [params]
   author = "Vaughn Miller"
   tagline = "Some things I've learned along the way..."
+  copyright = "Copyright &copy; 2022 - Vaughn Miller"
   disableDarkModeCSS = false
 
 [permalinks]
