@@ -4,6 +4,7 @@ date: 2022-01-03T08:01:09-05:00
 draft: false
 menu: "main"
 meta: false
+weight: "5"
 ---
 
 My name is Vaughn Miller.  I am currently a Desktop Engineer at Lafayette College in Easton PA.
